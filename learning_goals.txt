@@ -1,0 +1,6 @@
+Learning Goals
+
+- Need to learn how to make routes using express
+- Need to learn what is express js and how to use it to make a server.
+- Need to learn to connect frontend and backend.
+
